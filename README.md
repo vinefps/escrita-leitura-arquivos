@@ -17,11 +17,13 @@ O programa utiliza as seguintes bibliotecas padrão do Java:
 java.io.*: Para operações de entrada/saída, como leitura e escrita de arquivos.
 java.util.ArrayList: Para armazenar e manipular uma lista de produtos.
 java.util.List: Interface que define o contrato para listas em Java.
-Executando o Programa
+
+# Executando o Programa
 Clone ou baixe o arquivo Java Programa.java para sua máquina.
 Abra o arquivo Programa.java em sua IDE Java.
-Certifique-se de que o arquivo de entrada (lista.txt) esteja localizado no caminho especificado no código (C:\\Users\\IRM\\Desktop\\vendas\\lista.txt).
-Execute o programa a partir da IDE. Após a execução, um arquivo summary.csv será criado no diretório especificado (C:\\Users\\IRM\\Desktop\\vendas\\out\\summary.csv), contendo os resultados processados.
+
+Certifique-se de que o arquivo de entrada esteja localizado no caminho especificado no código. Execute o programa a partir da IDE. Após a execução, um arquivo de saída será gerado no diretório especificado, contendo os resultados processados.
+
 Observações
 Certifique-se de ter as permissões necessárias para ler e escrever nos diretórios especificados.
 Em caso de erros durante a execução, mensagens de erro serão exibidas no console indicando o problema.
