@@ -4,12 +4,7 @@ Descrição
 Este é um programa simples escrito em Java que realiza a leitura de um arquivo de texto (.txt) contendo informações sobre produtos, processa essas informações e escreve os resultados em um arquivo CSV (.csv). O arquivo de entrada contém informações sobre produtos, como nome, valor e quantidade, separados por ponto e vírgula (;). O programa lê essas informações, cria uma lista de produtos e, em seguida, escreve essas informações em um arquivo CSV no formato desejado.
 
 Pré-requisitos
-Para executar este programa, é necessário ter uma IDE (Ambiente de Desenvolvimento Integrado) para Java instalada em sua máquina. Algumas das IDEs populares incluem:
-
-Eclipse
-IntelliJ IDEA
-NetBeans
-Você pode escolher qualquer uma das IDEs mencionadas acima ou qualquer outra de sua preferência. Certifique-se de ter configurado e instalado corretamente o JDK (Kit de Desenvolvimento Java) em sua máquina.
+Para executar este programa, é necessário ter uma IDE (Ambiente de Desenvolvimento Integrado) para Java instalada em sua máquina. Certifique-se de ter configurado e instalado corretamente o JDK (Kit de Desenvolvimento Java) em sua máquina.
 
 Bibliotecas Utilizadas
 O programa utiliza as seguintes bibliotecas padrão do Java:
